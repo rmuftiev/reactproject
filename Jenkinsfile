@@ -10,7 +10,6 @@ pipeline {
 
       steps {
 
-        sh "cd app1"
         sh 'npm install'
       }
 
